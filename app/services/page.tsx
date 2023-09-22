@@ -10,7 +10,7 @@ export default function ServicesPage() {
         <div className="pt-40 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 sm:gap-4 md:gap-6">
           {/* Column 1 */}
           <div className="col-span-1">
-            <h2 className="text-2xl font-semibold mb-4 text-center font-medium text-purple-600 mb-10">Phase 1<br />(2023-2024)</h2>
+            <h2 className="text-2xl font-semibold mb-4 text-center font-medium text-white-600 mb-10">Phase 1<br />(2023-2024)</h2>
             {/* Item 1 */}
             <div className="relative group duration-500 cursor-pointer group overflow-hidden text-gray-50 h-72 w-56 rounded-2xl hover:duration-700 duration-700 mb-8">
               <div className="w-56 h-72 bg-cover bg-center relative text-gray-800" style={{ backgroundImage: 'url("/images/consulting.jpg")' }}>
@@ -54,7 +54,7 @@ export default function ServicesPage() {
 
           {/* Column 2 */}
           <div className="col-span-1">
-            <h2 className="text-2xl font-semibold mb-4 text-center font-medium text-purple-600 mb-10">Phase 2<br />(2024-2025)</h2>
+            <h2 className="text-2xl font-semibold mb-4 text-center font-medium text-white-600 mb-10">Phase 2<br />(2024-2025)</h2>
             {/* Item 1 */}
             <div className="relative group duration-500 cursor-pointer group overflow-hidden text-gray-50 h-72 w-56 rounded-2xl hover:duration-700 duration-700 mb-8">
               <div className="w-56 h-72 bg-cover bg-center relative text-gray-800" style={{ backgroundImage: 'url("/images/tour.jpg")' }}>
@@ -100,7 +100,7 @@ export default function ServicesPage() {
 
           {/* Column 3 */}
           <div className="col-span-1">
-            <h2 className="text-2xl font-semibold mb-4 text-center font-medium text-purple-600 mb-10">Phase 3<br />(After 2025)</h2>
+            <h2 className="text-2xl font-semibold mb-4 text-center font-medium text-white-600 mb-10">Phase 3<br />(After 2025)</h2>
             {/* Item 1 */}
             <div className="relative group duration-500 cursor-pointer group overflow-hidden text-gray-50 h-72 w-56 rounded-2xl hover:duration-700 duration-700 mb-8">
               <div className="w-56 h-72 bg-cover bg-center relative text-gray-800" style={{ backgroundImage: 'url("/images/sync.jpg")' }}>
