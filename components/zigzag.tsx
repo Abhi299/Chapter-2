@@ -20,7 +20,7 @@ export default function Zigzag() {
 
             {/* 1st item */}
           <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-anchor="[data-aos-id-blocks]">
-            <div className="w-16 h-16 rounded-full overflow-hidden">
+            <div className="w-75 h-75 rounded-full overflow-hidden mb-4">
               <Image className="w-full h-full object-cover" src={CEO} alt="CEO" />
             </div>
             <h4 className="h4 mb-2 text-center">Benson Zhang</h4>
@@ -30,7 +30,7 @@ export default function Zigzag() {
 
             {/* 2nd item */}
           <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-anchor="[data-aos-id-blocks]">
-            <div className="w-16 h-16 rounded-full overflow-hidden">
+            <div className="w-75 h-75 rounded-full overflow-hidden mb-4">
               <Image className="w-full h-full object-cover" src={CFO} alt="CFO" />
             </div>
             <h4 className="h4 mb-2 text-center">Vedansh Shashvat Mishra</h4>
